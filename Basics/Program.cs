@@ -2,6 +2,12 @@
 using System.IO; //For file handling exercies
 using System.Text;
 
+/**************************************************************/
+//  Simple exercises in C# from w3resources website in order to
+//  learn the syndax of C#. 
+//  https://www.w3resource.com/csharp-exercises/
+/**************************************************************/
+
 namespace Basics
 {
     class Program
